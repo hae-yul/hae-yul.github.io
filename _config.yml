@@ -1,0 +1,44 @@
+# Site Info
+title: "Title"
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
+tagline: ""
+description: ""
+baseurl: ""
+url: https://variu.github.io
+logo: ""
+
+# Site configurations
+#gems:
+#  - jekyll-paginate
+#markdown: kramdown
+#kramdown:
+#  input: GFM
+#excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+#paginate:
+#paginate_path: ''
+#permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: HaeYul
+  description: HaeYul
+  contact:
+    # linkedin:  https://www.linkedin.com/in/
+    github:    https://github.com/hae-yul
+    # facebook:
+    # twitter:
+    # weibo:
+    # email:    llghh0966@gmail.com
+
+google_analytics:
+  # ua: ''
+
+# Puglins
+#mathjax: true # whether support mathjax
+#google_analytics_token: '' # leave blank if you don't want google analytics
+#disqus_short_name: '' # leave blank if you don't want disqus
